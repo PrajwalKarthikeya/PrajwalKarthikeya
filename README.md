@@ -9,13 +9,15 @@
 <br><br>
 
 <a href="https://github.com/PrajwalKarthikeya">
-  <img src="https://img.shields.io/github/followers/PrajwalKarthikeya?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/PrajwalKarthikeya?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://github.com/PrajwalKarthikeya?tab=repositories">
-  <img src="https://img.shields.io/github/stars/PrajwalKarthikeya?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/PrajwalKarthikeya?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -34,7 +36,7 @@ I build small tools, experiment with AI, break things, rebuild them, and occasio
 
 ---
 
-## ⚡ What I'm Into
+# ⚡ What I'm Into
 
 <table>
 <tr>
@@ -50,6 +52,7 @@ I build small tools, experiment with AI, break things, rebuild them, and occasio
 * Human → machine interaction
 
 </td>
+
 <td width="50%">
 
 ### 🎬 Creative Technology
@@ -141,27 +144,11 @@ An AI-oriented project focused on analyzing and auditing enterprise processes.
 
 ---
 
-# 📊 GitHub, But Make It Pretty
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKarthikeya&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&theme=transparent" width="70%"/>
-
-</div>
-
----
-
-# 🏆 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrajwalKarthikeya&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&bg_color=00000000&color=8B9BB4&line=8B9BB4&point=FFFFFF&area=true&area_color=8B9BB4" width="95%"/>
 
 </div>
 
@@ -172,16 +159,6 @@ An AI-oriented project focused on analyzing and auditing enterprise processes.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PrajwalKarthikeya/PrajwalKarthikeya/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
-
-</div>
-
----
-
-# 📈 The Grind
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&bg_color=00000000&color=8B9BB4&line=8B9BB4&point=FFFFFF&area=true&area_color=8B9BB4" width="95%"/>
 
 </div>
 
@@ -199,6 +176,60 @@ obsessing over → cinema, technology & great storytelling
 
 ---
 
+# 🎞️ Influences
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-070.jpg/800px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-070.jpg" width="250" height="330" style="object-fit: cover;"/>
+
+<br>
+
+### **CRISTIANO RONALDO**
+
+`DISCIPLINE`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://static.wikia.nocookie.net/berserk/images/4/4d/Griffith_Anime_1997.png" width="250" height="330" style="object-fit: cover;"/>
+
+<br>
+
+### **GRIFFITH**
+
+`AMBITION`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png" width="250" height="330" style="object-fit: cover;"/>
+
+<br>
+
+### **JON SNOW**
+
+`HONOR`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`DISCIPLINE`    `AMBITION`    `HONOR`
+
+</div>
+
+---
+
 # 🌌 Philosophy
 
 > **Make it useful.**
@@ -213,16 +244,29 @@ The most interesting things happen when they collide.
 
 ---
 
+# 🎥 Currently Obsessed With
+
 <div align="center">
 
-### If you found something interesting here, feel free to explore.
+`AI THAT FEELS HUMAN`
+`STORIES THAT HURT`
+`CINEMA THAT STAYS WITH YOU`
+`BUILDING THINGS THAT SHOULDN'T EXIST YET`
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
 
 <a href="https://github.com/PrajwalKarthikeya?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repos-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOS-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
-  <img src="https://img.shields.io/badge/Find%20Me%20On%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/FIND%20ME%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
