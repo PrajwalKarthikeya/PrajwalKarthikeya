@@ -185,7 +185,7 @@ obsessing over → cinema, technology & great storytelling
 
 <td align="center" width="33%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-070.jpg/800px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-070.jpg" width="250" height="330" style="object-fit: cover;"/>
+<img src="https://pbs.twimg.com/media/Gcr3ULTXYAA58EF.jpg" width="250" height="330" style="object-fit: cover;"/>
 
 <br>
 
@@ -209,7 +209,7 @@ obsessing over → cinema, technology & great storytelling
 
 <td align="center" width="33%">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png" width="250" height="330" style="object-fit: cover;"/>
+<img src="https://s1.r29static.com/bin/entry/b89/720x864,85/2160368/image.webp" width="250" height="330" style="object-fit: cover;"/>
 
 <br>
 
