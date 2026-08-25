@@ -1,56 +1,232 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=F2B64E&center=true&vCenter=true&width=650&lines=Cups+in%2C+countdown+out.;Building+tiny+tools+that+do+one+thing;Dark+mode+is+the+only+mode.;90%25+thinking%2C+10%25+typing." alt="typing header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=PRAJWAL%20KARTHIKEYA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20BUILDING%20%7C%20STORYTELLING&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
 
-# hey, I'm Prajwal
+<br>
 
-I build small tools that do one thing well. Latest: [grain](https://grain-bice.vercel.app/), a rice timer that counts every second so your rice never burns.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=700&lines=I+build+things+I+wish+existed.;AI+%7C+Software+%7C+Creative+Experiments;Sometimes+I+write+code.+Sometimes+stories.;Always+trying+to+make+something+worth+remembering." alt="Typing SVG" />
 
-[![visitors](https://komarev.com/ghpvc/?username=PrajwalKarthikeya&label=PROFILE+VIEWS&color=F2B64E&style=for-the-badge)](https://github.com/PrajwalKarthikeya)
+<br><br>
 
-</div>
-
-## what I'm cooking
-
-| project | what it does | live |
-| --- | --- | --- |
-| **[grain](https://github.com/PrajwalKarthikeya/grain)** | minimal rice cooker timer with a steam-blast finale | [grain-bice.vercel.app](https://grain-bice.vercel.app/) |
-| **[Spotify-Mood-to-Audio-Persona](https://github.com/PrajwalKarthikeya/Spotify-Mood-to-Audio-Persona)** | local LLM that maps human emotion to audio metadata | - |
-| **FilmPass** | TypeScript project | - |
-| **Orbit** | JavaScript experiments | - |
-
-## GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2B64E&icon_color=F2B64E&text_color=9f9f9f" alt="stats" />
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrajwalKarthikeya&layout=compact&hide_border=true&bg_color=00000000&title_color=F2B64E&text_color=9f9f9f" alt="top langs" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&background=0D1117&ring=F2B64E&fire=F2B64E&currStreakLabel=F2B64E" />
-  <img src="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&background=FFFFFF&ring=C07F16&fire=C07F16&currStreakLabel=C07F16" alt="streak" />
-</picture>
+<a href="https://github.com/PrajwalKarthikeya">
+  <img src="https://img.shields.io/github/followers/PrajwalKarthikeya?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/PrajwalKarthikeya?tab=repositories">
+  <img src="https://img.shields.io/github/stars/PrajwalKarthikeya?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
-## the snake eats my contributions
+---
+
+## `> whoami`
+
+I'm **Prajwal** — an AI-focused builder who likes turning weird ideas into working things.
+
+I care about the intersection of **technology, storytelling, and human experience**.
+
+I build small tools, experiment with AI, break things, rebuild them, and occasionally make something surprisingly useful.
+
+> **I don't want to build more software. I want to build better ideas.**
+
+---
+
+## ⚡ What I'm Into
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+* LLM applications
+* AI agents & workflows
+* Local AI
+* Prompt engineering
+* AI-assisted development
+* Human → machine interaction
+
+</td>
+<td width="50%">
+
+### 🎬 Creative Technology
+
+* Storytelling
+* Screenwriting
+* Filmmaking
+* Creative tools
+* Experimental interfaces
+* Technology that feels human
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ The Arsenal
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrajwalKarthikeya/PrajwalKarthikeya/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/PrajwalKarthikeya/PrajwalKarthikeya/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nodejs,git,github,linux,vscode&perline=11" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vercel,notion,figma&perline=8" />
 
 </div>
 
-## words to live by
+---
+
+# 🎬 Selected Work
+
+### 🍚 [grain](https://github.com/PrajwalKarthikeya/grain)
+
+A ridiculously simple rice cooker timer.
+
+**Cups in → countdown → steam-blast finale.**
+
+Sometimes the best software is the thing that does **one tiny job extremely well**.
+
+[**Live →**](https://grain-bice.vercel.app/)
+
+---
+
+### 🎧 [Spotify Mood → Audio Persona](https://github.com/PrajwalKarthikeya/Spotify-Mood-to-Audio-Persona)
+
+A local LLM intent engine designed to map **contextual human emotion → structured audio metadata**.
+
+Instead of asking:
+
+> "What genre do you like?"
+
+the idea is closer to:
+
+> "What does this moment feel like?"
+
+**Python • Local LLM • NLP • Audio**
+
+---
+
+### 🎟️ [FilmPass](https://github.com/PrajwalKarthikeya/FilmPass)
+
+A TypeScript project built around one of the things I care about most:
+
+**cinema.**
+
+---
+
+### 🛰️ [Orbit](https://github.com/PrajwalKarthikeya/Orbit)
+
+JavaScript experiments, prototypes, and ideas that don't necessarily fit into a box.
+
+---
+
+### ✍️ [Notion AI Script Engine](https://github.com/PrajwalKarthikeya/Notion-AI-Script-Engine)
+
+AI-assisted tooling around the writing and scripting workflow.
+
+**Python • AI • Writing**
+
+---
+
+### 🏢 [Enterprise Process Auditor](https://github.com/PrajwalKarthikeya/Enterprise-Process-Auditor)
+
+An AI-oriented project focused on analyzing and auditing enterprise processes.
+
+**Python • AI • Automation**
+
+---
+
+# 📊 GitHub, But Make It Pretty
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random dev quote" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKarthikeya&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&theme=transparent" width="70%"/>
+
+</div>
+
+---
+
+# 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrajwalKarthikeya&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
+</div>
+
+---
+
+# 🐍 The Snake Eats My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PrajwalKarthikeya/PrajwalKarthikeya/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
+
+</div>
+
+---
+
+# 📈 The Grind
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&bg_color=00000000&color=8B9BB4&line=8B9BB4&point=FFFFFF&area=true&area_color=8B9BB4" width="95%"/>
+
+</div>
+
+---
+
+# 🧠 Currently
+
+```text
+building       → AI-powered tools & experiments
+learning       → better systems, better engineering
+exploring      → the intersection of AI + creativity
+writing        → stories, screenplays & ideas
+obsessing over → cinema, technology & great storytelling
+```
+
+---
+
+# 🌌 Philosophy
+
+> **Make it useful.**
+>
+> **Make it beautiful.**
+>
+> **Make it memorable.**
+
+I don't think technology and art belong in separate rooms.
+
+The most interesting things happen when they collide.
+
+---
+
+<div align="center">
+
+### If you found something interesting here, feel free to explore.
+
+<a href="https://github.com/PrajwalKarthikeya?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repos-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
+  <img src="https://img.shields.io/badge/Find%20Me%20On%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
 
 </div>
