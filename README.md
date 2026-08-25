@@ -197,7 +197,7 @@ obsessing over → cinema, technology & great storytelling
 
 <td align="center" width="33%">
 
-<img src="https://www.reddit.com/r/Berserk/comments/w98oi8/could_griffith_achieve_his_dream_without_guts_in/" width="250" height="330" style="object-fit: cover;"/>
+<img src="https://preview.redd.it/could-griffith-achieve-his-dream-without-guts-in-the-golden-v0-8gesajekh2e91.jpg?width=640&crop=smart&auto=webp&s=8812a2174f08c193a4dd14e17c33da110b45339b" width="250" height="330" style="object-fit: cover;"/>
 
 <br>
 
