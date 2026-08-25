@@ -197,7 +197,7 @@ obsessing over → cinema, technology & great storytelling
 
 <td align="center" width="33%">
 
-<img src="https://static.wikia.nocookie.net/berserk/images/4/4d/Griffith_Anime_1997.png" width="250" height="330" style="object-fit: cover;"/>
+<img src="https://www.reddit.com/r/Berserk/comments/w98oi8/could_griffith_achieve_his_dream_without_guts_in/" width="250" height="330" style="object-fit: cover;"/>
 
 <br>
 
