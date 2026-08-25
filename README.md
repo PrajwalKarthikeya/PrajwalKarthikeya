@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=F2B64E&center=true&vCenter=true&width=650&lines=Cups+in%2C+countdown+out.;Building+grain+%E2%80%94+a+tiny+rice+timer.;Dark+mode+is+the+only+mode.;90%25+thinking%2C+10%25+typing." alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=F2B64E&center=true&vCenter=true&width=650&lines=Cups+in%2C+countdown+out.;Building+tiny+tools+that+do+one+thing;Dark+mode+is+the+only+mode.;90%25+thinking%2C+10%25+typing." alt="typing header" />
 
 # hey, I'm Prajwal
 
-I build small tools that do one thing well — like [grain](https://grain-bice.vercel.app/), a rice timer that counts every second so your rice never burns.
+I build small tools that do one thing well. Latest: [grain](https://grain-bice.vercel.app/), a rice timer that counts every second so your rice never burns.
 
 [![visitors](https://komarev.com/ghpvc/?username=PrajwalKarthikeya&label=PROFILE+VIEWS&color=F2B64E&style=for-the-badge)](https://github.com/PrajwalKarthikeya)
 
@@ -23,15 +23,13 @@ I build small tools that do one thing well — like [grain](https://grain-bice.v
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2B64E&icon_color=F2B64E&text_color=9f9f9f" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKarthikeya&layout=compact&hide_border=true&bg_color=00000000&title_color=F2B64E&text_color=9f9f9f" alt="top langs" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2B64E&icon_color=F2B64E&text_color=9f9f9f" alt="stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrajwalKarthikeya&layout=compact&hide_border=true&bg_color=00000000&title_color=F2B64E&text_color=9f9f9f" alt="top langs" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&background=0D1117&ring=F2B64E&fire=F2B64E&currStreakLabel=F2B64E" />
   <img src="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&background=FFFFFF&ring=C07F16&fire=C07F16&currStreakLabel=C07F16" alt="streak" />
 </picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrajwalKarthikeya&no-frame=true&no-bg=true&column=7&titleColor=F2B64E&iconColor=F2B64E" alt="trophies" />
 
 </div>
 
@@ -51,8 +49,8 @@ I build small tools that do one thing well — like [grain](https://grain-bice.v
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes.vercel.app/quote?theme=dark" />
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=light" alt="random dev quote" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random dev quote" />
 </picture>
 
 </div>
