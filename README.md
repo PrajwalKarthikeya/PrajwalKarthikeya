@@ -209,13 +209,13 @@ obsessing over → cinema, technology & great storytelling
 
 <td align="center" width="33%">
 
-<img src="https://s1.r29static.com/bin/entry/b89/720x864,85/2160368/image.webp" width="250" height="330" style="object-fit: cover;"/>
+<img src="https://i.pinimg.com/736x/b9/8e/18/b98e183d6bb91620748ea6a67ad35b84.jpg" width="250" height="330" style="object-fit: cover;"/>
 
 <br>
 
-### **JON SNOW**
+### **ALWXANDRA TRUSOVA**
 
-`HONOR`
+`OBSESSION`
 
 </td>
 
@@ -224,7 +224,7 @@ obsessing over → cinema, technology & great storytelling
 
 <br>
 
-`DISCIPLINE`    `AMBITION`    `HONOR`
+`DISCIPLINE`    `AMBITION`    `OBSESSION`
 
 </div>
 
