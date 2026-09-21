@@ -145,7 +145,5 @@ Screenplays, characters, timelines, fictional universes, and other unreasonable 
 
 ---
 
-<sub>🤞 Levi understands the grind. Gojo understands the aura.</sub>
 
-````
 
