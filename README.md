@@ -1,37 +1,30 @@
-# Prajwal Karthikeya
+# 00 // NARRATIVE ARCHITECT
 
-**Filmmaker. AI Engineer.**
-
-I bridge the gap between high-tension storytelling and machine intelligence. 
-
-I build tools that feel human and write stories that feel real.
+**Prajwal Karthikeya** // Filmmaker. AI Engineer.
 
 ---
 
-### 🎥 Featured
+### █ SYSTEMS PROGRESSION
+`LEVEL // 20.06`
+`[███████████████████░] 92%`
+*Constructing high-tension visual narratives.*
+
+---
+
+### █ FEATURED // THRUST
 **[World Film Atlas](https://world-film-atlas.vercel.app)**
-*Interactive choropleth map of world cinema.*
-
-A gritty, high-tension exploration of how the world watches film. 
-
-Built with PGLite, TanStack, and D3.
+*A gritty, data-driven map of global cinema.*
 
 ---
 
-### 🛠 The Arsenal
-*   **AI/ML:** PyTorch, Local LLMs, Computer Vision, Agents.
-*   **Engineering:** Python, TypeScript, React, PGLite.
-*   **Media:** Screenwriting, Cinematography, DaVinci Resolve.
+### █ THE ARSENAL
+`VISION` PyTorch, CV
+`INTELLIGENCE` LLMs, Agents
+`STRUCTURE` PGLite, TS, React
 
 ---
 
-### 🌌 Philosophy
-*   **Make it useful.**
-*   **Make it beautiful.**
-*   **Make it memorable.**
-
-Technology and art don't belong in separate rooms. The most interesting things happen when they collide.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKarthikeya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-[Explore Repos](https://github.com/PrajwalKarthikeya?tab=repositories) | [Portfolio](https://prazzu-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/prajwal-b201b42b4/)
+*Precision. Tension. Tragedy.*
