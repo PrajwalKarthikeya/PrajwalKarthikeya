@@ -1,10 +1,13 @@
-<pre>
- P R A J W A L   K A R T H I K E Y A
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Prajwal+Karthikeya;Filmmaker;AI+Engineer" alt="Typing SVG" />
+</p>
+
+<pre align="center">
  -----------------------------------
  [ FILMMAKER // AI ENGINEER ]
 
  Stories aren't written, they're built. 
- Code isn't just logic, it's the structure of the frame.
+ Code is the structure of the frame.
 
  > STACK
  [ CODE ] Python, TypeScript, React, PGLite
@@ -12,10 +15,8 @@
  [ MEDIA ] Screenwriting, Cinematography
 
  [Portfolio](https://prazzu-portfolio.vercel.app/) // [LinkedIn](https://www.linkedin.com/in/prajwal-b201b42b4/)
+</pre>
 
- ---
- <!-- Cinematic Vibe -->
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9dOaH1n1C/giphy.gif" width="100%" />
- </pre>
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKarthikeya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKarthikeya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</p>
