@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=PRAJWAL%20KARTHIKEYA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20BUILDING%20%7C%20STORYTELLING&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=700&lines=I+build+things+I+wish+existed.;AI+%7C+Software+%7C+Creative+Experiments;Sometimes+I+write+code.+Sometimes+stories.;Always+trying+to+make+something+worth+remembering." alt="Typing SVG" />
 
@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 
+<a href="https://github.com/PrajwalKarthikeya?tab=projects">
+<img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -40,7 +44,7 @@ I build small tools, experiment with AI, break things, rebuild them, and occasio
 
 ---
 
-# ⚡ What I'm Into
+## ⚡ What I'm Into
 
 <table>
 <tr>
@@ -74,7 +78,7 @@ I build small tools, experiment with AI, break things, rebuild them, and occasio
 
 ---
 
-# 🛠️ The Arsenal
+## 🛠️ The Arsenal
 
 <div align="center">
 
@@ -88,8 +92,17 @@ I build small tools, experiment with AI, break things, rebuild them, and occasio
 
 ---
 
-# 🎬 Selected Work
+## 🎬 Selected Work
 
+### 🌍 **[World Film Atlas](https://github.com/PrajwalKarthikeya/World-Film-Atlas)** *(Latest)*
+
+An interactive choropleth map exploring every country's highest-grossing film, cinema screens, admissions & production volumes.
+
+<img src="https://raw.githubusercontent.com/PrajwalKarthikeya/World-Film-Atlas/main/screenshots/app-builder-preview.png" width="320" alt="World Film Atlas Preview" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);"/>
+
+[**Live Demo →**](https://world-film-atlas.vercel.app/)
+
+---
 ### 🍚 [grain](https://github.com/PrajwalKarthikeya/grain)
 
 A ridiculously simple rice cooker timer.
@@ -101,7 +114,6 @@ Sometimes the best software is the thing that does **one tiny job extremely well
 [**Live →**](https://grain-bice.vercel.app/)
 
 ---
-
 ### 🎧 [Spotify Mood → Audio Persona](https://github.com/PrajwalKarthikeya/Spotify-Mood-to-Audio-Persona)
 
 A local LLM intent engine designed to map **contextual human emotion → structured audio metadata**.
@@ -117,7 +129,6 @@ the idea is closer to:
 **Python • Local LLM • NLP • Audio**
 
 ---
-
 ### 🎟️ [FilmPass](https://github.com/PrajwalKarthikeya/FilmPass)
 
 A TypeScript project built around one of the things I care about most:
@@ -125,13 +136,11 @@ A TypeScript project built around one of the things I care about most:
 **cinema.**
 
 ---
-
 ### 🛰️ [Orbit](https://github.com/PrajwalKarthikeya/Orbit)
 
 JavaScript experiments, prototypes, and ideas that don't necessarily fit into a box.
 
 ---
-
 ### ✍️ [Notion AI Script Engine](https://github.com/PrajwalKarthikeya/Notion-AI-Script-Engine)
 
 AI-assisted tooling around the writing and scripting workflow.
@@ -139,7 +148,6 @@ AI-assisted tooling around the writing and scripting workflow.
 **Python • AI • Writing**
 
 ---
-
 ### 🏢 [Enterprise Process Auditor](https://github.com/PrajwalKarthikeya/Enterprise-Process-Auditor)
 
 An AI-oriented project focused on analyzing and auditing enterprise processes.
@@ -148,7 +156,7 @@ An AI-oriented project focused on analyzing and auditing enterprise processes.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -158,7 +166,7 @@ An AI-oriented project focused on analyzing and auditing enterprise processes.
 
 ---
 
-# 🐍 The Snake Eats My Contributions
+## 🐍 The Snake Eats My Contributions
 
 <div align="center">
 
@@ -168,7 +176,7 @@ An AI-oriented project focused on analyzing and auditing enterprise processes.
 
 ---
 
-# 🧠 Currently
+## 🧠 Currently
 
 ```text
 building       → AI-powered tools & experiments
@@ -180,7 +188,7 @@ obsessing over → cinema, technology & great storytelling
 
 ---
 
-# 🎞️ Influences
+## 🎞️ Influences
 
 <div align="center">
 
@@ -234,12 +242,12 @@ obsessing over → cinema, technology & great storytelling
 
 ---
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 > **Make it useful.**
->
+> 
 > **Make it beautiful.**
->
+> 
 > **Make it memorable.**
 
 I don't think technology and art belong in separate rooms.
@@ -248,7 +256,7 @@ The most interesting things happen when they collide.
 
 ---
 
-# 🎥 Currently Obsessed With
+## 🎥 Currently Obsessed With
 
 <div align="center">
 
