@@ -1,288 +1,37 @@
-<div align="center">
+# Prajwal Karthikeya
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=PRAJWAL%20KARTHIKEYA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20BUILDING%20%7C%20STORYTELLING&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+**Filmmaker. AI Engineer.**
 
-<br><br>
+I bridge the gap between high-tension storytelling and machine intelligence. 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=700&lines=I+build+things+I+wish+existed.;AI+%7C+Software+%7C+Creative+Experiments;Sometimes+I+write+code.+Sometimes+stories.;Always+trying+to+make+something+worth+remembering." alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://github.com/PrajwalKarthikeya">
-<img src="https://img.shields.io/github/followers/PrajwalKarthikeya?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/PrajwalKarthikeya?tab=repositories">
-<img src="https://img.shields.io/github/stars/PrajwalKarthikeya?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://prazzu-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-</a>
-
-<a href="https://github.com/PrajwalKarthikeya?tab=projects">
-<img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+I build tools that feel human and write stories that feel real.
 
 ---
 
-## `> whoami`
+### 🎥 Featured
+**[World Film Atlas](https://world-film-atlas.vercel.app)**
+*Interactive choropleth map of world cinema.*
 
-I'm **Prajwal** — an AI-focused builder who likes turning weird ideas into working things.
+A gritty, high-tension exploration of how the world watches film. 
 
-I care about the intersection of **technology, storytelling, and human experience**.
-
-I build small tools, experiment with AI, break things, rebuild them, and occasionally make something surprisingly useful.
-
-> **I don't want to build more software. I want to build better ideas.**
+Built with PGLite, TanStack, and D3.
 
 ---
 
-## ⚡ What I'm Into
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-* LLM applications
-* AI agents & workflows
-* Local AI
-* Prompt engineering
-* AI-assisted development
-* Human → machine interaction
-
-</td>
-
-<td width="50%">
-
-### 🎬 Creative Technology
-
-* Storytelling
-* Screenwriting
-* Filmmaking
-* Creative tools
-* Experimental interfaces
-* Technology that feels human
-
-</td>
-</tr>
-</table>
+### 🛠 The Arsenal
+*   **AI/ML:** PyTorch, Local LLMs, Computer Vision, Agents.
+*   **Engineering:** Python, TypeScript, React, PGLite.
+*   **Media:** Screenwriting, Cinematography, DaVinci Resolve.
 
 ---
 
-## 🛠️ The Arsenal
+### 🌌 Philosophy
+*   **Make it useful.**
+*   **Make it beautiful.**
+*   **Make it memorable.**
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nodejs,git,github,linux,vscode&perline=11" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vercel,notion,figma&perline=8" />
-
-</div>
+Technology and art don't belong in separate rooms. The most interesting things happen when they collide.
 
 ---
 
-## 🎬 Selected Work
-
-### 🌍 **[World Film Atlas](https://github.com/PrajwalKarthikeya/World-Film-Atlas)** *(Latest)*
-
-An interactive choropleth map exploring every country's highest-grossing film, cinema screens, admissions & production volumes.
-
-<img src="https://raw.githubusercontent.com/PrajwalKarthikeya/World-Film-Atlas/main/screenshots/app-builder-preview.png" width="320" alt="World Film Atlas Preview" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);"/>
-
-[**Live Demo →**](https://world-film-atlas.vercel.app/)
-
----
-### 🍚 [grain](https://github.com/PrajwalKarthikeya/grain)
-
-A ridiculously simple rice cooker timer.
-
-**Cups in → countdown → steam-blast finale.**
-
-Sometimes the best software is the thing that does **one tiny job extremely well**.
-
-[**Live →**](https://grain-bice.vercel.app/)
-
----
-### 🎧 [Spotify Mood → Audio Persona](https://github.com/PrajwalKarthikeya/Spotify-Mood-to-Audio-Persona)
-
-A local LLM intent engine designed to map **contextual human emotion → structured audio metadata**.
-
-Instead of asking:
-
-> "What genre do you like?"
-
-the idea is closer to:
-
-> "What does this moment feel like?"
-
-**Python • Local LLM • NLP • Audio**
-
----
-### 🎟️ [FilmPass](https://github.com/PrajwalKarthikeya/FilmPass)
-
-A TypeScript project built around one of the things I care about most:
-
-**cinema.**
-
----
-### 🛰️ [Orbit](https://github.com/PrajwalKarthikeya/Orbit)
-
-JavaScript experiments, prototypes, and ideas that don't necessarily fit into a box.
-
----
-### ✍️ [Notion AI Script Engine](https://github.com/PrajwalKarthikeya/Notion-AI-Script-Engine)
-
-AI-assisted tooling around the writing and scripting workflow.
-
-**Python • AI • Writing**
-
----
-### 🏢 [Enterprise Process Auditor](https://github.com/PrajwalKarthikeya/Enterprise-Process-Auditor)
-
-An AI-oriented project focused on analyzing and auditing enterprise processes.
-
-**Python • AI • Automation**
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&bg_color=00000000&color=8B9BB4&line=8B9BB4&point=FFFFFF&area=true&area_color=8B9BB4" width="95%"/>
-
-</div>
-
----
-
-## 🐍 The Snake Eats My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PrajwalKarthikeya/PrajwalKarthikeya/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
-
-</div>
-
----
-
-## 🧠 Currently
-
-```text
-building       → AI-powered tools & experiments
-learning       → better systems, better engineering
-exploring      → the intersection of AI + creativity
-writing        → stories, screenplays & ideas
-obsessing over → cinema, technology & great storytelling
-```
-
----
-
-## 🎞️ Influences
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://pbs.twimg.com/media/Gcr3ULTXYAA58EF.jpg" width="250" height="330" style="object-fit: cover;"/>
-
-<br>
-
-### **CRISTIANO RONALDO**
-
-`DISCIPLINE`
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://preview.redd.it/could-griffith-achieve-his-dream-without-guts-in-the-golden-v0-8gesajekh2e91.jpg?width=640&crop=smart&auto=webp&s=8812a2174f08c193a4dd14e17c33da110b45339b" width="250" height="330" style="object-fit: cover;"/>
-
-<br>
-
-### **GRIFFITH**
-
-`AMBITION`
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://i.pinimg.com/736x/b9/8e/18/b98e183d6bb91620748ea6a67ad35b84.jpg" width="250" height="330" style="object-fit: cover;"/>
-
-<br>
-
-### **ALWXANDRA TRUSOVA**
-
-`OBSESSION`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-`DISCIPLINE`    `AMBITION`    `OBSESSION`
-
-</div>
-
----
-
-## 🌌 Philosophy
-
-> **Make it useful.**
-> 
-> **Make it beautiful.**
-> 
-> **Make it memorable.**
-
-I don't think technology and art belong in separate rooms.
-
-The most interesting things happen when they collide.
-
----
-
-## 🎥 Currently Obsessed With
-
-<div align="center">
-
-`AI THAT FEELS HUMAN`
-`STORIES THAT HURT`
-`CINEMA THAT STAYS WITH YOU`
-`BUILDING THINGS THAT SHOULDN'T EXIST YET`
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-<a href="https://github.com/PrajwalKarthikeya?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOS-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
-<img src="https://img.shields.io/badge/FIND%20ME%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
-
-</div>
+[Explore Repos](https://github.com/PrajwalKarthikeya?tab=repositories) | [Portfolio](https://prazzu-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/prajwal-b201b42b4/)
