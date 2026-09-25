@@ -144,7 +144,7 @@ Git · GitHub · APIs · Databases · Whatever gets the job done
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&area=true&custom_title=ACTIVITY" width="95%" />
+<img src="https://media.tenor.com/c-fmfYiYatEAAAAM/ronaldo.gif" width="95%" />
 
 </div>
 
