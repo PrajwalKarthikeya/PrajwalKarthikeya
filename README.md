@@ -14,7 +14,7 @@
 
 ---
 
-## `// PROFILE`
+## ` PROFILE`
 
 ```text
 PRAZZU.SILVER
@@ -39,7 +39,7 @@ interests:
 
 ---
 
-## `// CURRENTLY BUILDING`
+## ` CURRENTLY BUILDING`
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Small systems, strange prototypes, ML experiments, visual experiments, and ideas
 
 ---
 
-## `// STACK`
+## ` STACK`
 
 <p align="center">
 
@@ -122,7 +122,7 @@ Git · GitHub · APIs · Databases · Whatever gets the job done
 
 ---
 
-## `// ELSEWHERE`
+## ` ELSEWHERE`
 
 <div align="center">
 
