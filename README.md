@@ -1,73 +1,56 @@
 <div align="center">
 
-# 𝑷𝒓𝒂𝒛𝒛𝒖 𝑺𝒊𝒍𝒗𝒆𝒓
+# 𝑷𝒓𝒂𝒛𝒛𝒖
 
-### **AI × Cinema × Storytelling**
+### AI / ML · Systems · Experiments · Writing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=8B9CFF&center=true&vCenter=true&width=720&lines=I+build+AI+systems.;I+write+stories.;I+make+films+in+my+head+first.;Code+is+my+toolkit.+Cinema+is+the+point." alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B9CFF&center=true&vCenter=true&width=650&lines=building+things+I+find+interesting;LLMs+%7C+RAG+%7C+Agents+%7C+Computer+Vision;breaking+things+to+understand+them;occasionally+writing+stories" alt="Typing intro" />
 
 <br>
 
-<a href="https://github.com/PrajwalKarthikeya">
-<img src="https://github-readme-stats.vercel.app/api?username=PrajwalKarthikeya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-</a>
-
-<a href="https://github.com/PrajwalKarthikeya">
-<img src="https://streak-stats.demolab.com?user=PrajwalKarthikeya&hide_border=true&theme=transparent" height="165" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,pytorch,typescript,react,git,docker,linux&perline=7" />
 
 </div>
 
 ---
 
-## 01 / WHO I AM
-
-> **B.Tech CSE student building at the intersection of AI and storytelling.**
-
-I'm into **LLMs, agents, RAG, computer vision, creative tooling, screenwriting, and filmmaking**.
-
-I like software that feels less like a homework assignment and more like a **machine from a movie**.
+## `// PROFILE`
 
 ```text
-CURRENT MODE
-────────────────────────────────────────────
-AI                ███████████████████░  90%
-STORY             ██████████████████░░  85%
-FILM              █████████████████░░░  80%
-SYSTEMS           ███████████████░░░░░  70%
-DSA               ████████░░░░░░░░░░░░  40%
+PRAZZU.SILVER
+
+student
+builder
+writer
+
+currently → AI / ML
+usually   → experimenting
+occasionally → writing something fictional
+
+interests:
+    LLMs
+    agents
+    RAG
+    computer vision
+    local inference
+    creative tools
+    systems
 ```
 
 ---
 
-## 02 / THE TOOLKIT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,git,github,docker,linux,vscode&perline=6" />
-</p>
-
-<p align="center">
-  <b>AI / ML</b> — LLMs · RAG · Agents · Computer Vision · PyTorch
-  <br>
-  <b>BUILDING</b> — Python · TypeScript · React · Node.js
-  <br>
-  <b>CREATIVE</b> — Screenwriting · Cinematography · Worldbuilding
-</p>
-
----
-
-## 03 / THINGS I'M BUILDING
+## `// CURRENTLY BUILDING`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎬 Semantic Footage Search Engine
+### 🧠 LLM Inference & Evaluation Lab
 
-Search video like you search a database.
+Experiments around local models, inference, evaluation, retrieval, and agentic systems.
 
-**Vision:** make footage searchable through natural language.
+`LLMs` `RAG` `Evaluation` `Inference`
 
 </td>
 
@@ -75,9 +58,9 @@ Search video like you search a database.
 
 ### 🔥 Wildfire Intelligence
 
-ML-powered wildfire monitoring and analysis.
+Machine learning applied to wildfire detection, monitoring, and analysis.
 
-**Goal:** turn messy environmental data into useful intelligence.
+`ML` `Computer Vision` `Satellite Data`
 
 </td>
 
@@ -87,21 +70,23 @@ ML-powered wildfire monitoring and analysis.
 
 <td width="50%" valign="top">
 
-### 🧠 LLM Inference & Evaluation Lab
+### 🎬 Semantic Footage Search
 
-Experiments with local models, inference pipelines, evaluation, and agentic workflows.
+Natural-language search over video footage.
 
-**Less hype. More experiments.**
+Because scrubbing through hours of footage manually is fucking awful.
+
+`Embeddings` `Search` `Vision`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✍️ Story Worlds
+### 🧪 Random Experiments
 
-Screenplays, characters, timelines, fictional universes, and other unreasonable ideas.
+Small systems, strange prototypes, ML experiments, visual experiments, and ideas that may or may not survive.
 
-**I build stories too.**
+`BUILD → BREAK → LEARN`
 
 </td>
 
@@ -110,40 +95,63 @@ Screenplays, characters, timelines, fictional universes, and other unreasonable 
 
 ---
 
-## 04 / CURRENTLY
+## `// STACK`
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  BUILDING     → AI systems, agents, creative tools       │
-│  LEARNING     → deeper ML + production engineering       │
-│  WRITING      → screenplays + fictional universes       │
-│  WATCHING     → cinema, anime, and whatever breaks me   │
-└──────────────────────────────────────────────────────────┘
-```
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,typescript,javascript,react,nodejs,docker,linux,git,github&perline=5" />
 
-### *"Stories aren't written. They're built."*
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&area=true&custom_title=Contribution%20Trajectory" width="95%" />
-
-<br>
-
-[**PORTFOLIO**](https://prazzu-portfolio.vercel.app/)
-·
-[**LINKEDIN**](https://www.linkedin.com/in/prajwal-b201b42b4/)
-·
-[**GITHUB**](https://github.com/PrajwalKarthikeya)
+<b>AI / ML</b><br>
+LLMs · RAG · Agents · Computer Vision · Embeddings · Local Inference
 
 <br><br>
 
-<sub>⚡ Building things I wish already existed.</sub>
+<b>ENGINEERING</b><br>
+Python · TypeScript · JavaScript · React · Node.js · Docker · Linux
+
+<br><br>
+
+<b>OTHER</b><br>
+Git · GitHub · APIs · Databases · Whatever gets the job done
+
+</p>
+
+---
+
+## `// ELSEWHERE`
+
+<div align="center">
+
+<a href="https://prazzu-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal-b201b42b4/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/PrajwalKarthikeya">
+<img src="https://img.shields.io/badge/REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKarthikeya&hide_border=true&area=true&custom_title=ACTIVITY" width="95%" />
 
 </div>
 
 ---
 
+<div align="center">
 
+<sub>mostly found somewhere between an idea and an unnecessary prototype.</sub>
 
+</div>
