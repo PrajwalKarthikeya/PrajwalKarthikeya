@@ -14,6 +14,7 @@
 
 ---
 
+![Quote](https://readme-quotes-seven.vercel.app/api?type=horizontal&theme=dark)
 
 ## ` PROFILE`
 
