@@ -123,6 +123,51 @@ Git · GitHub · APIs · Databases · Whatever gets the job done
 
 ---
 
+## ` CONTRIBUTIONS SKYLINE`
+
+<div align="center">
+
+<img src="./assets/github-skyline.svg" alt="GitHub Skyline - PrajwalKarthikeya" width="100%" />
+
+<br><br>
+
+<details>
+<summary><b>View ASCII Terminal Skyline</b></summary>
+
+<!-- SKYLINE:START -->
+```text
+           ____ _ _   _   _       _     
+          / ___(_) |_| | | |_   _| |__  
+         | |  _| | __| |_| | | | | '_ \ 
+         | |_| | | |_|  _  | |_| | |_) |
+          \____|_|\__|_| |_|\__,_|_.__/ 
+
+          ____  _          _ _            
+         / ___|| | ___   _| (_)_ __   ___ 
+         \___ \| |/ / | | | | | '_ \ / _ \
+          ___) |   <| |_| | | | | | | __/
+         |____/|_|\_\\__, |_|_|_| |_|\___|
+                    |___/
+
+                                       ╻╻┃.......... 
+                                       ░░░.......... 
+                                  ╻   ╽░░▒...........
+                                  ░   ▓░░░...........
+                                  ▒╻  ░░░░...........
+                                  ▒░ ╻▓░░░...........
+     ░            ░░░        ░   ░░░░░▒░░░...........
+
+                  PrajwalKarthikeya                  
+               2026 · 342 Contributions              
+```
+<!-- SKYLINE:END -->
+
+</details>
+
+</div>
+
+---
+
 ## ` ELSEWHERE`
 
 <div align="center">
