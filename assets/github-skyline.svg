@@ -68,7 +68,7 @@
 
       <rect x="75" y="2" width="155" height="26" rx="6" fill="#161b22" stroke="#238636" />
       <circle cx="90" cy="15" r="4" fill="#39d353" />
-      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">342 Contributions</text>
+      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">343 Contributions</text>
     </g>
   </g>
 
@@ -228,7 +228,10 @@
       <line x1="655.1" y1="140.0" x2="655.1" y2="128.0" stroke="#39d353" stroke-width="1.5" />
       <circle cx="655.1" cy="128.0" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
-    <rect x="664.4" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
+    <g>
+      <rect x="664.4" y="262.8" width="10" height="17.2" rx="2" fill="url(#towerLow)" stroke="#8b949e" stroke-width="0.8" opacity="0.95" />
+      <line x1="666.4" y1="270.0" x2="672.4" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+    </g>
     <rect x="678.8" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="693.1" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="707.5" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
