@@ -258,7 +258,7 @@
       <circle cx="683.8" cy="143.7" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
     <rect x="693.1" y="278" width="10" height="2" fill="#21262d" rx="1" />
-    <rect x="707.5" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
+    <rect x="707.5" y="278" width="10" height="2" fill="#21262d" rx="1" />
     <rect x="721.8" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="736.1" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="750.5" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
