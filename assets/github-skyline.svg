@@ -68,7 +68,7 @@
 
       <rect x="75" y="2" width="155" height="26" rx="6" fill="#161b22" stroke="#238636" />
       <circle cx="90" cy="15" r="4" fill="#39d353" />
-      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">705 Contributions</text>
+      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">930 Contributions</text>
     </g>
   </g>
 
@@ -243,7 +243,7 @@
       <circle cx="669.4" cy="159.4" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
     <g>
-      <rect x="678.8" y="155.7" width="10" height="124.3" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
+      <rect x="678.8" y="140.0" width="10" height="140.0" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
       <line x1="680.8" y1="270.0" x2="686.8" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="680.8" y1="258.0" x2="686.8" y2="258.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="680.8" y1="246.0" x2="686.8" y2="246.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
@@ -254,12 +254,53 @@
       <line x1="680.8" y1="186.0" x2="686.8" y2="186.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="680.8" y1="174.0" x2="686.8" y2="174.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="680.8" y1="162.0" x2="686.8" y2="162.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
-      <line x1="683.8" y1="155.7" x2="683.8" y2="143.7" stroke="#39d353" stroke-width="1.5" />
-      <circle cx="683.8" cy="143.7" r="2" fill="#ff7b72" filter="url(#glow)" />
+      <line x1="680.8" y1="150.0" x2="686.8" y2="150.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="683.8" y1="140.0" x2="683.8" y2="128.0" stroke="#39d353" stroke-width="1.5" />
+      <circle cx="683.8" cy="128.0" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
-    <rect x="693.1" y="278" width="10" height="2" fill="#21262d" rx="1" />
-    <rect x="707.5" y="278" width="10" height="2" fill="#21262d" rx="1" />
-    <rect x="721.8" y="278" width="10" height="2" fill="#21262d" rx="1" />
+    <g>
+      <rect x="693.1" y="140.0" width="10" height="140.0" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
+      <line x1="695.1" y1="270.0" x2="701.1" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="258.0" x2="701.1" y2="258.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="246.0" x2="701.1" y2="246.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="234.0" x2="701.1" y2="234.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="222.0" x2="701.1" y2="222.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="210.0" x2="701.1" y2="210.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="198.0" x2="701.1" y2="198.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="186.0" x2="701.1" y2="186.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="174.0" x2="701.1" y2="174.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="162.0" x2="701.1" y2="162.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="695.1" y1="150.0" x2="701.1" y2="150.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="698.1" y1="140.0" x2="698.1" y2="128.0" stroke="#39d353" stroke-width="1.5" />
+      <circle cx="698.1" cy="128.0" r="2" fill="#ff7b72" filter="url(#glow)" />
+    </g>
+    <g>
+      <rect x="707.5" y="140.0" width="10" height="140.0" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
+      <line x1="709.5" y1="270.0" x2="715.5" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="258.0" x2="715.5" y2="258.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="246.0" x2="715.5" y2="246.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="234.0" x2="715.5" y2="234.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="222.0" x2="715.5" y2="222.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="210.0" x2="715.5" y2="210.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="198.0" x2="715.5" y2="198.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="186.0" x2="715.5" y2="186.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="174.0" x2="715.5" y2="174.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="162.0" x2="715.5" y2="162.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="709.5" y1="150.0" x2="715.5" y2="150.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="712.5" y1="140.0" x2="712.5" y2="128.0" stroke="#39d353" stroke-width="1.5" />
+      <circle cx="712.5" cy="128.0" r="2" fill="#ff7b72" filter="url(#glow)" />
+    </g>
+    <g>
+      <rect x="721.8" y="202.9" width="10" height="77.1" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
+      <line x1="723.8" y1="270.0" x2="729.8" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="723.8" y1="258.0" x2="729.8" y2="258.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="723.8" y1="246.0" x2="729.8" y2="246.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="723.8" y1="234.0" x2="729.8" y2="234.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="723.8" y1="222.0" x2="729.8" y2="222.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="723.8" y1="210.0" x2="729.8" y2="210.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="726.8" y1="202.9" x2="726.8" y2="190.9" stroke="#39d353" stroke-width="1.5" />
+      <circle cx="726.8" cy="190.9" r="2" fill="#ff7b72" filter="url(#glow)" />
+    </g>
     <rect x="736.1" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="750.5" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="764.8" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
