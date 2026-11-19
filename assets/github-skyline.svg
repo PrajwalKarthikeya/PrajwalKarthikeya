@@ -68,7 +68,7 @@
 
       <rect x="75" y="2" width="155" height="26" rx="6" fill="#161b22" stroke="#238636" />
       <circle cx="90" cy="15" r="4" fill="#39d353" />
-      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">930 Contributions</text>
+      <text x="100" y="19" fill="#e6edf3" font-size="12" font-weight="600">939 Contributions</text>
     </g>
   </g>
 
@@ -291,15 +291,16 @@
       <circle cx="712.5" cy="128.0" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
     <g>
-      <rect x="721.8" y="202.9" width="10" height="77.1" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
+      <rect x="721.8" y="187.1" width="10" height="92.9" rx="2" fill="url(#towerHigh)" stroke="#39d353" stroke-width="0.8" opacity="0.95" />
       <line x1="723.8" y1="270.0" x2="729.8" y2="270.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="723.8" y1="258.0" x2="729.8" y2="258.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="723.8" y1="246.0" x2="729.8" y2="246.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="723.8" y1="234.0" x2="729.8" y2="234.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="723.8" y1="222.0" x2="729.8" y2="222.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
       <line x1="723.8" y1="210.0" x2="729.8" y2="210.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
-      <line x1="726.8" y1="202.9" x2="726.8" y2="190.9" stroke="#39d353" stroke-width="1.5" />
-      <circle cx="726.8" cy="190.9" r="2" fill="#ff7b72" filter="url(#glow)" />
+      <line x1="723.8" y1="198.0" x2="729.8" y2="198.0" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+      <line x1="726.8" y1="187.1" x2="726.8" y2="175.1" stroke="#39d353" stroke-width="1.5" />
+      <circle cx="726.8" cy="175.1" r="2" fill="#ff7b72" filter="url(#glow)" />
     </g>
     <rect x="736.1" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
     <rect x="750.5" y="262.0" width="10" height="18" rx="2" fill="url(#towerFuture)" stroke="#30363d" stroke-dasharray="2,2" opacity="0.4" />
